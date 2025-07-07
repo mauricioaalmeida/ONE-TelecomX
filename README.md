@@ -128,7 +128,7 @@ possíveis limiares ou padrões associados ao churn.
 
 ![Grafico distribuição Tempo Contrato](./data/Images/KDEplot_Tempo_Contrato_Evasao.png)
 
-![Grafico distribuição Gastos Mensais](./data/Images/KDEplot_Conta_Mensal_Evasao.png)
+
 
 ![Grafico distribuição Gastos Diarios](./data/Images/KDEplot_Conta_Diaria_Evasao.png)
 
